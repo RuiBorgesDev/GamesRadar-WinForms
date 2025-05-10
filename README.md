@@ -17,7 +17,7 @@ To use this application, follow these steps:
 
 ### Installation
 
-1. Clone the repository: `git clone https://github.com/RuiPedroDev/GamesRadar-WinForms`
+1. Clone the repository: `git clone https://github.com/RuiBorgesDev/GamesRadar-WinForms`
 2. Navigate to the directory of the project: `cd GamesRadar-WinForms`
 3. Run the project: `dotnet run`
 
